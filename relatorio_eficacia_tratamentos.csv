@@ -1,0 +1,64 @@
+Cancer_Type;Treatment_Type;Total_Pacientes;Media_Sobrevivencia_Meses;Taxa_Sucesso_Perc
+Breast Cancer;Chemo + Radiation;2441;22.55;52.23
+Breast Cancer;Chemotherapy;4508;20.51;35.2
+Breast Cancer;Palliative Care;5899;19.81;31.73
+Breast Cancer;Radiation;3233;23.63;58.92
+Breast Cancer;Surgery;5815;24.89;70.4
+Breast Cancer;Surgery + Chemotherapy;2482;22.03;50.89
+Breast Cancer;Targeted Therapy;3791;20.84;38.57
+Cervical Cancer;Chemo + Radiation;1209;20.59;38.3
+Cervical Cancer;Chemotherapy;2204;18.95;28.22
+Cervical Cancer;Palliative Care;3002;18.41;23.38
+Cervical Cancer;Radiation;1599;21.66;44.72
+Cervical Cancer;Surgery;2818;22.24;55.5
+Cervical Cancer;Surgery + Chemotherapy;1144;20.8;39.34
+Cervical Cancer;Targeted Therapy;1905;19.44;31.02
+Colorectal Cancer;Chemo + Radiation;695;20.69;34.39
+Colorectal Cancer;Chemotherapy;1297;18.36;24.52
+Colorectal Cancer;Palliative Care;1657;17.86;21.85
+Colorectal Cancer;Radiation;918;21.59;44.12
+Colorectal Cancer;Surgery;1614;21.46;47.46
+Colorectal Cancer;Surgery + Chemotherapy;681;19.81;33.63
+Colorectal Cancer;Targeted Therapy;1073;18.65;27.12
+Leukemia;Chemo + Radiation;308;19.58;38.64
+Leukemia;Chemotherapy;671;19.14;26.08
+Leukemia;Palliative Care;890;18.37;23.15
+Leukemia;Radiation;512;20.94;41.99
+Leukemia;Surgery;822;22.86;51.34
+Leukemia;Surgery + Chemotherapy;310;21.06;41.94
+Leukemia;Targeted Therapy;557;19.01;26.57
+Lung Cancer;Chemo + Radiation;1038;16.17;11.27
+Lung Cancer;Chemotherapy;1943;16.73;11.01
+Lung Cancer;Palliative Care;2547;16.49;8.48
+Lung Cancer;Radiation;1439;16.84;14.66
+Lung Cancer;Surgery;2470;17.53;18.58
+Lung Cancer;Surgery + Chemotherapy;1037;16.57;13.02
+Lung Cancer;Targeted Therapy;1572;16.42;10.69
+Oral Cancer;Chemo + Radiation;1392;21.52;43.25
+Oral Cancer;Chemotherapy;2594;19.46;31.03
+Oral Cancer;Palliative Care;3432;18.86;27.51
+Oral Cancer;Radiation;1873;22.31;50.77
+Oral Cancer;Surgery;3386;23.5;58.68
+Oral Cancer;Surgery + Chemotherapy;1379;21.8;44.09
+Oral Cancer;Targeted Therapy;2203;19.55;33.45
+Ovarian Cancer;Chemo + Radiation;336;21.45;39.88
+Ovarian Cancer;Chemotherapy;622;19.22;25.4
+Ovarian Cancer;Palliative Care;811;19.06;21.7
+Ovarian Cancer;Radiation;442;21.14;45.93
+Ovarian Cancer;Surgery;846;23.72;54.49
+Ovarian Cancer;Surgery + Chemotherapy;334;22.03;41.92
+Ovarian Cancer;Targeted Therapy;517;19.21;27.66
+Prostate Cancer;Chemo + Radiation;487;23.78;55.65
+Prostate Cancer;Chemotherapy;935;20.14;41.5
+Prostate Cancer;Palliative Care;1227;19.89;33.5
+Prostate Cancer;Radiation;684;24.72;63.3
+Prostate Cancer;Surgery;1203;26.24;75.48
+Prostate Cancer;Surgery + Chemotherapy;501;23.71;56.09
+Prostate Cancer;Targeted Therapy;772;20.97;41.45
+Stomach Cancer;Chemo + Radiation;641;17.91;15.76
+Stomach Cancer;Chemotherapy;1272;17.48;12.66
+Stomach Cancer;Palliative Care;1637;16.94;9.22
+Stomach Cancer;Radiation;918;18.51;21.02
+Stomach Cancer;Surgery;1661;19.04;23.84
+Stomach Cancer;Surgery + Chemotherapy;665;19.21;17.14
+Stomach Cancer;Targeted Therapy;1129;17.32;12.05
